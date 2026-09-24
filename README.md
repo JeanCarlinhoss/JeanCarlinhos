@@ -13,3 +13,60 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
       <a href="https://github.com/jeancarlinhoss?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jeanCarlinhoss?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   <h1>🧰 Linguagens e Tecnoloiga</h1>
+<img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
+   />
+   <img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" 
+   />
+  <img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+   />
+   <img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
+   />
+   <img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" 
+   /> <img 
+   aling="left"
+   alt="HTML"
+   title="HTML"
+   height="30"
+   widht="30"
+   style="padding-rigth: 5px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+   
+   
+   
+   <h1>📊 Estartística  </h1>
