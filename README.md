@@ -56,8 +56,8 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    height="30"
    widht="30"
    style="padding-rigth: 30px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" 
-   /> <img 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
+   <img 
    aling="left"
    alt="HTML"
    title="HTML"
