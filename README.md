@@ -20,16 +20,15 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-   />
+   style="padding-rigth: 30px"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
    <img 
    aling="left"
    alt="HTML"
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
+   style="padding-rigth: 30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" 
    />
   <img 
@@ -38,7 +37,7 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
+   style="padding-rigth: 30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
    />
    <img 
@@ -47,7 +46,7 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
+   style="padding-rigth: 30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
    />
    <img 
@@ -56,7 +55,7 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
+   style="padding-rigth: 30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" 
    /> <img 
    aling="left"
@@ -64,9 +63,6 @@ Concluir o ensino médio no E.E.Jorge Duprat Figuereido. Atulmente estou cursand
    title="HTML"
    height="30"
    widht="30"
-   style="padding-rigth: 5px"
+   style="padding-rigth: 30px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
    
-   
-   
-   <h1>📊 Estartística  </h1>
